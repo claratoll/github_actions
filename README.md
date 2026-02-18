@@ -15,3 +15,5 @@ How to set up github actions and push directly to test on Android and Apple for 
 ### Main.yaml
 - no crashes bc android is perfect
 
+### Gradle
+- gradle versions can mess it all up and give unexplanable errors so do keep them updated in all files.
