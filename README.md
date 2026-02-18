@@ -1,6 +1,8 @@
 # github_actions
 How to set up github actions and push directly to test on Android and Apple for Flutter apps. This works on 18th feb 2026, will probably have to be tweaked to work for your project.
 
+All files you need to add / update are added in the project. You need to tweak it to work for your specific project (ofc).
+
 
 
 # Apple
