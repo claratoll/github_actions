@@ -4,7 +4,7 @@ Add keys to settings in your github projects.
 
 <img width="806" height="99" alt="image (4)" src="https://github.com/user-attachments/assets/ddb63978-1f47-4d3a-9046-97f69d5b2577" />
 
-Just make sure you do NOT get any extra lines in the keyes.
+Just make sure you do NOT get any extra lines in the keys.
 
 
 
