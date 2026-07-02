@@ -18,6 +18,9 @@ All files you need to add / update are added in the project. You need to tweak i
 
 
 # Android
+First of all: file names should not end with .kts
+example build.gradle, not build.gradle.kts
+
 
 ## Setup android keys 
 [Instructions here](https://github.com/claratoll/github_actions/blob/main/androidkeys.md)
